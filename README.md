@@ -1,4 +1,4 @@
-**Description: This template made in Angular 12 is structured so that it serves for some project type dashboard with session management and the respective page area with route protection. You already have pre-installed Ang ular Material and Sweet Alert** - Anderson Romero
+**Description: This template made in Angular 12 is structured so that it serves for some project type dashboard with session management and the respective page area with route protection. You already have pre-installed Angular Material and Sweet Alert** - Anderson Romero
 
 # Dashboard
 
